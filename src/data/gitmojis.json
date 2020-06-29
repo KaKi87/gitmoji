@@ -60,21 +60,21 @@
       "emoji": "💄",
       "entity": "&#ff99cc;",
       "code": ":lipstick:",
-      "description": "Updating the UI and style files.",
+      "description": "Adding or updating the UI and style files.",
       "name": "lipstick"
     },
     {
       "emoji": "🎉",
       "entity": "&#127881;",
       "code": ":tada:",
-      "description": "Initial commit.",
+      "description": "Begining a project.",
       "name": "tada"
     },
     {
       "emoji": "✅",
       "entity": "&#x2705;",
       "code": ":white_check_mark:",
-      "description": "Updating tests.",
+      "description": "Adding or updating tests.",
       "name": "white-check-mark"
     },
     {
@@ -83,41 +83,6 @@
       "code": ":lock:",
       "description": "Fixing security issues.",
       "name": "lock"
-    },
-    {
-      "emoji": "🍎",
-      "entity": "&#x1f34e;",
-      "code": ":apple:",
-      "description": "Fixing something on macOS.",
-      "name": "apple"
-    },
-    {
-      "emoji": "🐧",
-      "entity": "&#x1f427;",
-      "code": ":penguin:",
-      "description": "Fixing something on Linux.",
-      "name": "penguin"
-    },
-    {
-      "emoji": "🏁",
-      "entity": "&#x1f3c1;",
-      "code": ":checkered_flag:",
-      "description": "Fixing something on Windows.",
-      "name": "checkered-flag"
-    },
-    {
-      "emoji": "🤖",
-      "entity": "&#129302;",
-      "code": ":robot:",
-      "description": "Fixing something on Android.",
-      "name": "robot"
-    },
-    {
-      "emoji": "🍏",
-      "entity": "&#127823;",
-      "code": ":green_apple:",
-      "description": "Fixing something on iOS.",
-      "name": "green-apple"
     },
     {
       "emoji": "🔖",
@@ -172,13 +137,14 @@
       "emoji": "👷",
       "entity": "&#x1f477;",
       "code": ":construction_worker:",
-      "description": "Adding CI build system.",
+      "description": "Adding or updating CI build system.",
       "name": "construction-worker"
     },
     {
       "emoji": "📈",
+      "entity": "&#x1F4C8;",
       "code": ":chart_with_upwards_trend:",
-      "description": "Adding analytics or tracking code.",
+      "description": "Adding or updating analytics or tracking code.",
       "name": "chart-with-upwards-trend"
     },
     {
@@ -187,13 +153,6 @@
       "code": ":recycle:",
       "description": "Refactoring code.",
       "name": "recycle"
-    },
-    {
-      "emoji": "🐳",
-      "entity": "&#x1f433;",
-      "code": ":whale:",
-      "description": "Work about Docker.",
-      "name": "whale"
     },
     {
       "emoji": "➕",
@@ -213,8 +172,15 @@
       "emoji": "🔧",
       "entity": "&#x1f527;",
       "code": ":wrench:",
-      "description": "Changing configuration files.",
+      "description": "Adding or updating configuration files.",
       "name": "wrench"
+    },
+    {
+      "emoji": "🔨",
+      "entity": "&#128296;",
+      "code": ":hammer:",
+      "description": "Adding or updating build scripts.",
+      "name": "hammer"
     },
     {
       "emoji": "🌐",
@@ -228,7 +194,7 @@
       "entity": "&#59161;",
       "code": ":pencil2:",
       "description": "Fixing typos.",
-      "name": "pencil"
+      "name": "pencil2"
     },
     {
       "emoji": "💩",
@@ -255,7 +221,7 @@
       "emoji": "📦",
       "entity": "&#1F4E6;",
       "code": ":package:",
-      "description": "Updating compiled files or packages.",
+      "description": "Adding or updating compiled files or packages.",
       "name": "package"
     },
     {
@@ -294,13 +260,6 @@
       "name": "bento"
     },
     {
-      "emoji": "👌",
-      "entity": "&#x1f44c;",
-      "code": ":ok_hand:",
-      "description": "Updating code due to code review changes.",
-      "name": "ok-hand"
-    },
-    {
       "emoji": "♿️",
       "entity": "&#9855;",
       "code": ":wheelchair:",
@@ -311,7 +270,7 @@
       "emoji": "💡",
       "entity": "&#128161;",
       "code": ":bulb:",
-      "description": "Documenting source code.",
+      "description": "Adding or updating comments in source code.",
       "name": "bulb"
     },
     {
@@ -325,7 +284,7 @@
       "emoji": "💬",
       "entity": "&#128172;",
       "code": ":speech_balloon:",
-      "description": "Updating text and literals.",
+      "description": "Adding or updating text and literals.",
       "name": "speech-balloon"
     },
     {
@@ -339,7 +298,7 @@
       "emoji": "🔊",
       "entity": "&#128266;",
       "code": ":loud_sound:",
-      "description": "Adding logs.",
+      "description": "Adding or updating logs.",
       "name": "loud-sound"
     },
     {
@@ -353,7 +312,7 @@
       "emoji": "👥",
       "entity": "&#128101;",
       "code": ":busts_in_silhouette:",
-      "description": "Adding contributor(s).",
+      "description": "Adding or updating contributor(s).",
       "name": "busts-in-silhouette"
     },
     {
@@ -388,7 +347,7 @@
       "emoji": "🥚",
       "entity": "&#129370;",
       "code": ":egg:",
-      "description": "Adding an easter egg.",
+      "description": "Adding or updating an easter egg.",
       "name": "egg"
     },
     {
@@ -418,13 +377,6 @@
       "code": ":mag:",
       "description": "Improving SEO",
       "name": "mag"
-    },
-    {
-      "emoji": "☸️",
-      "entity": "&#9784;",
-      "code": ":wheel_of_dharma:",
-      "description": "Work about Kubernetes",
-      "name": "wheel-of-dharma"
     },
     {
       "emoji": "🏷️",
